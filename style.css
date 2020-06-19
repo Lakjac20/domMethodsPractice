@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    background-color: teal;
+}
+
+button{
+    width: 65px;
+    height: 20px;
+    background-color: blueviolet;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+}
+
+a {
+    background-color: black;
+}
